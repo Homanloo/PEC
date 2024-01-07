@@ -36,7 +36,7 @@ Contains the essential data required for the calculations. Although only 3 param
 Calculating the desired EOS parameters and preparing all the necessary data for next modules.
 
 **phiCalc:**
-Two of the main parameters in the whole phase calculation, which are the Compressibility factor $Z$ and Fugacity  Coefficient $\Phi$, are calculated in this section. Fugacity Coefficient is the core parameter for all the future calculations since $\Phi$-$\Phi$ Model is being used for Vapor Liquid Equilibrium (VLE) calculations.
+Two of the main parameters in the whole phase calculation, which are the Compressibility factor $Z$ and Fugacity  Coefficient $\Phi$, are calculated in this section. Fugacity Coefficient is the core parameter for all the future calculations since $\Phi$ - $\Phi$ Model is being used for Vapor Liquid Equilibrium (VLE) calculations.
 
 **bublP & dewP:**
 Evaluation of Bubble Pressure and Dew Pressure is used for P-x-y and P-T graphs and also for initializing the VLE calculation. Thus, this is one of the most important tools in the whole framework.
