@@ -118,7 +118,7 @@ If you are a developer and want to customize or work on the existing project you
 Another way is to create a Django Project and replace the files with the vle.W1 folder in the repository. To do so, after you created the virtual environment, follow the steps below:
 1. `cd` to the same directory as you made your VE and use `django-admin startproject vleW1` to start a project.
 2. Use `python manage.py startapp vle` and `python manage.py startapp api` to create the apps needed for the project.
-3. Replace the entire vleW1 folder with the folder in the repository.
+3. Replace the entire *web-framework* folder with the folder in the repository.
 
 After you have install the requirements, you can create python files and play with the modules on your own. Here is a simple example:
 ```  
