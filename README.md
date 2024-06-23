@@ -54,13 +54,13 @@ Phase Envelopes or P-T diagrams can be plotted using this module by determining 
 ## What is VLE calculation? <a name="4"></a>
 Equilibrium is a condition in which no changes occur in the macroscopic properties of an isolated system with time. At equilibrium, all potentials that may cause change are exactly balanced, so no driving force exists for any change in the system.
 
-Vapor Liquid Equilibrium (VLE) is a subset of phase equilibrium which solely focus on vapor and liquid phase. This subject has a significant rule in chemical engineering as it is widely used for distillation and extraction processes.
+Vapor Liquid Equilibrium (VLE) is a subset of phase equilibrium which solely focus on vapor and liquid phase. This subject has a significant rule in chemical engineering as it is widely used for both research and in industry.
 
 By completing VLE calculations successfully, one can obtain vapor/liquid ratio, vapor phase and liquid phase mole fractions, bubble pressure, dew pressure, fugacity coefficients, Z factors, etc.
 
 ![VLE_Diagram](https://github.com/Homanloo/PEC/assets/118424174/32161459-4e26-4f13-ad56-e9800651024a)
 
-There are several models and equations for VLE calculations introduced by different sources. The major differences between these models are their precision and complexity. The model of choice in this project however, is the Phi-Phi Model ($\Phi$-$\Phi$ Model) which requires minimum amount of data and offers an acceptable accuracy.
+There are several models and equations for VLE calculations introduced by different sources. The major differences between these models are their precision and complexity. The model of choice in this project however, is the Phi-Phi Model ($\Phi$ - $\Phi$ Model) which requires minimum amount of data and offers an acceptable accuracy.
 
 By using the definition of fugacity one can obtain the equations below:
 
